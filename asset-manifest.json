@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HomeWork-14/static/css/main.c22b792f.css",
+    "main.js": "/HomeWork-14/static/js/main.e605a091.js",
+    "static/media/pexels-alexy-almond-3756523 1.png": "/HomeWork-14/static/media/pexels-alexy-almond-3756523 1.0bbd334d9050333ddc7c.png",
+    "static/media/Group.svg": "/HomeWork-14/static/media/Group.bd5851100b7cf3a071530a280e5cb581.svg",
+    "index.html": "/HomeWork-14/index.html",
+    "main.c22b792f.css.map": "/HomeWork-14/static/css/main.c22b792f.css.map",
+    "main.e605a091.js.map": "/HomeWork-14/static/js/main.e605a091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c22b792f.css",
+    "static/js/main.e605a091.js"
+  ]
+}
